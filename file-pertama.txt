@@ -1,3 +1,4 @@
 File pertama membuat github.
 - Isinya bebas.
 - Hanya teks sederhana.
+- tambahan.
